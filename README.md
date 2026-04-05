@@ -12,5 +12,5 @@ Steps to Run
 4. 	Run Server:
 5. 	Bash:-uvicorn main:app --reload
 
-NAME-VINITA
+
 
