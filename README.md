@@ -12,5 +12,6 @@ Steps to Run
 4. 	Run Server:
 5. 	Bash:-uvicorn main:app --reload
 
+6. 	Video:-https://jumpshare.com/s/x6aQsBwejZeoe8Qmdnrl  or Link
 
 
